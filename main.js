@@ -3,7 +3,7 @@ function addition(a, b) {
 }
 
 function multiplication(a, b) {
-  return a * b * b;
+  return a * b;
 }
 
 console.log("Hello World");
