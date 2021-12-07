@@ -1,5 +1,5 @@
-function addition(a, b) {
-  return a + b;
+function addition(a, b, c, d) {
+  return a + b + c + d;
 }
 
 function multiplication(a, b) {
