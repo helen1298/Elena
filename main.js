@@ -1,7 +1,5 @@
-
-function addition(a, b, c, d=0) {
+function addition(a, b, c, d = 0) {
   return a + b + c + d;
->>>>>>> math
 }
 
 function multiplication(a, b) {
@@ -9,3 +7,5 @@ function multiplication(a, b) {
 }
 
 console.log("Hello World");
+
+console.log("elena");
